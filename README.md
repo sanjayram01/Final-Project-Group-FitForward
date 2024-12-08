@@ -85,12 +85,6 @@ FitForward is an innovative project designed to enhance the job application expe
 ## **Contributing**
 Contributions are welcome! Please open an issue or submit a pull request if you'd like to enhance the project.
 
-
-
-## **Contact**
-For questions or feedback, feel free to reach out:  
-**Your Name**: [your-email@example.com](mailto:your-email@example.com)
-
 ---
 
 Let me know if you need further changes or additions! 🚀
